@@ -5,7 +5,7 @@ Perkenalkan nama saya **Ridhuan Rangga Kusuma**.<br>
  
 Saya seorang **Mahasiswa** di [Institut Teknologi Indonesia](https://iti.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ridhuan-rangga-kusuma-146241292) ku ya.
  
 ### Github Statistic
 <p align="left">

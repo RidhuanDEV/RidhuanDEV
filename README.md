@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 💼 **Pengalaman Profesional:** Memiliki pengalaman sebagai **Fullstack Developer** dan saat ini aktif magang sebagai **QA / SQA Intern** di **PT Eka Abhipraya Semesta**.
+- 💼 **Pengalaman Profesional:** Saat ini aktif sebagai **Fullstack Developer** dan berpengalaman sebagai pemagang denga jobdesk **QA / SQA Intern** di **PT Eka Abhipraya Semesta**.
 - 🚀 **Program Spesialisasi:** Merupakan bagian dari program MSIB **Bangkit Academy** dengan jalur pembelajaran **Mobile Development**.
 - 🎓 **Pendidikan:** Mahasiswa program studi Teknik Informatika di Institut Teknologi Indonesia.
 - 🔭 **Fokus Teknis:** Terbiasa merancang API (Express, NestJS), membangun antarmuka web, mengembangkan aplikasi berbasis Kotlin, serta melakukan pengujian API (Postman & Bruno) dan containerisasi (Docker).

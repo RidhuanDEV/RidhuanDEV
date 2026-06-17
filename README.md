@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ridhuan Rangga Kusuma 👋</h1>
-<h3 align="center">Fullstack Web Developer | Mobile Developer | QA/SQA Intern</h3>
+<h3 align="center">Fullstack Web Developer | Mobile Developer | QA/SQA</h3>
 
 <p align="center">
   Seorang antusias teknologi dengan pengalaman praktis dalam pengembangan web <i>end-to-end</i>, jaminan mutu perangkat lunak (Quality Assurance), dan pengembangan aplikasi <i>mobile</i>. Berfokus pada penulisan kode yang bersih, <i>testing</i> yang teliti, dan arsitektur sistem yang skalabel.
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 💼 **Pengalaman Profesional:** Saat ini aktif sebagai **Fullstack Developer** dan berpengalaman sebagai pemagang denga jobdesk **QA / SQA Intern** di **PT Eka Abhipraya Semesta**.
+- 💼 **Pengalaman Profesional:** Saat ini aktif sebagai **Fullstack Developer** dan berpengalaman sebagai pemagang denga jobdesk **QA / SQA** di **PT Eka Abhipraya Semesta**.
 - 🚀 **Program Spesialisasi:** Merupakan bagian dari program MSIB **Bangkit Academy** dengan jalur pembelajaran **Mobile Development**.
 - 🎓 **Pendidikan:** Mahasiswa program studi Teknik Informatika di Institut Teknologi Indonesia.
 - 🔭 **Fokus Teknis:** Terbiasa merancang API (Express, NestJS), membangun antarmuka web, mengembangkan aplikasi berbasis Kotlin, serta melakukan pengujian API (Postman & Bruno) dan containerisasi (Docker).

@@ -126,23 +126,10 @@ Seorang antusias teknologi dengan pengalaman praktis dalam pengembangan web *end
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RidhuanDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
 <img height="180" src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/assets/languages.svg" alt="most used languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RidhuanDEV&theme=tokyonight&hide_border=true" alt="streak" />
-
 </div>
-
 ---
 
-### 🌸 Anime Corner
-
 <div align="center">
-
-<!-- Taruh GIF anime favoritmu di folder assets/ -->
-<img src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/assets/anime-2.gif" alt="anime 2" width="260" />
-<img src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/assets/anime-3.gif" alt="anime 3" width="260" />
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&center=true&vCenter=true&width=600&lines=Code+hard%2C+test+harder.;Bug+kecil+hari+ini%2C+bencana+besok.;Keep+shipping.+Keep+learning." alt="quotes" />
 

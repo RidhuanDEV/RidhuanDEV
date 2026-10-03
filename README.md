@@ -1,12 +1,10 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ridhuan%20Rangga%20Kusuma&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header" width="100%" />
 
-<a href="https://github.com/RidhuanDEV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Mobile+Developer;QA+%2F+SQA;Clean+code+%7C+Careful+testing+%7C+Scalable+architecture" alt="Typing SVG" />
-</a>
 
-<br/><br/>
+
+# Hi there, I'm Ridhuan Rangga Kusuma 👋
+
+### Fullstack Web Developer | Mobile Developer | QA/SQA
 
 <!-- Taruh GIF anime kamu di assets/anime.gif -->
 <img src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/anime.gif" alt="anime" width="320" />
@@ -16,10 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=RidhuanDEV&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" />
 
 </div>
-
-# Hi there, I'm Ridhuan Rangga Kusuma 👋
-
-### Fullstack Web Developer | Mobile Developer | QA/SQA
+<br/>
 
 Seorang antusias teknologi dengan pengalaman praktis dalam pengembangan web *end-to-end*, jaminan mutu perangkat lunak (Quality Assurance), dan pengembangan aplikasi *mobile*. Berfokus pada penulisan kode yang bersih, *testing* yang teliti, dan arsitektur sistem yang skalabel.
 

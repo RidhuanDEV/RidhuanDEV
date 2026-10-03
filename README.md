@@ -1,32 +1,33 @@
-
-
-
+<div align="center">
 
 # Hi there, I'm Ridhuan Rangga Kusuma 👋
 
 ### Fullstack Web Developer | Mobile Developer | QA/SQA
+<br/>
 
 <!-- Taruh GIF anime kamu di assets/anime.gif -->
-<img src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/anime.gif" alt="anime" width="320" />
+<img src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/assets/anime.gif" alt="anime" width="320" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RidhuanDEV&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" />
 
-</div>
-<br/>
-
 Seorang antusias teknologi dengan pengalaman praktis dalam pengembangan web *end-to-end*, jaminan mutu perangkat lunak (Quality Assurance), dan pengembangan aplikasi *mobile*. Berfokus pada penulisan kode yang bersih, *testing* yang teliti, dan arsitektur sistem yang skalabel.
+
+</div>
+
+<br/>
 
 ---
 
 ### 👨‍💻 Tentang Saya
-
+ 
 - 💼 **Pengalaman Profesional:** Saat ini aktif sebagai **Fullstack Developer** dan berpengalaman sebagai pemagang denga jobdesk **QA / SQA** di **PT Eka Abhipraya Semesta**.
 - 🚀 **Program Spesialisasi:** Merupakan bagian dari program MSIB **Bangkit Academy** dengan jalur pembelajaran **Mobile Development**.
-- 🎓 **Pendidikan:** Mahasiswa program studi Teknik Informatika di Institut Teknologi Indonesia.
-- 🔭 **Fokus Teknis:** Terbiasa merancang API (Express, NestJS), membangun antarmuka web, mengembangkan aplikasi berbasis Kotlin, serta melakukan pengujian API (Postman & Bruno) dan containerisasi (Docker).
+- 🎓 **Pendidikan:** Lulusan S1 Teknik Informatika, Institut Teknologi Indonesia.
+- 🔭 **Fokus Teknis:** Pengembangan *fullstack* end-to-end, mulai dari merancang arsitektur backend modular lintas stack (Express, NestJS, Spring Boot, Laravel, FastAPI, .NET, Go) dengan Prisma/Sequelize, JWT, Redis, BullMQ, dan OpenTelemetry, hingga membangun antarmuka web dengan React dan Next.js (TypeScript, Tailwind); mengembangkan aplikasi mobile dengan Kotlin (Jetpack Compose) dan Flutter; serta melakukan pengujian API (Postman & Bruno) dan containerisasi (Docker).
 - 📫 **Mari Terhubung:** Temukan saya di [LinkedIn](https://www.linkedin.com/in/ridhuan-rangga-kusuma-146241292)
+
 
 ---
 
@@ -122,34 +123,12 @@ Seorang antusias teknologi dengan pengalaman praktis dalam pengembangan web *end
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RidhuanDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RidhuanDEV&layout=compact&theme=tokyonight" alt="top langs" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RidhuanDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+<img height="180" src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/main/assets/languages.svg" alt="most used languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=RidhuanDEV&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RidhuanDEV&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidhuanDEV&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/RidhuanDEV/RidhuanDEV/output/github-snake.svg" width="100%" />
-</picture>
 
 </div>
 

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="259" viewBox="0 0 495 259">
+<rect width="495" height="259" rx="6" fill="#1a1b27" stroke="#2f3146"/>
+<text x="25" y="35" fill="#70a5fd" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
+<clipPath id="c"><rect x="25" y="55" width="445" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
+<rect x="25.00" y="55" width="156.75" height="10" fill="#3178c6"/>
+<rect x="181.75" y="55" width="117.29" height="10" fill="#f1e05a"/>
+<rect x="299.04" y="55" width="64.51" height="10" fill="#4F5D95"/>
+<rect x="363.55" y="55" width="22.65" height="10" fill="#178600"/>
+<rect x="386.20" y="55" width="17.73" height="10" fill="#00ADD8"/>
+<rect x="403.93" y="55" width="15.60" height="10" fill="#A97BFF"/>
+<rect x="419.53" y="55" width="14.67" height="10" fill="#3572A5"/>
+<rect x="434.20" y="55" width="13.99" height="10" fill="#b07219"/>
+<rect x="448.19" y="55" width="10.97" height="10" fill="#8b949e"/>
+<rect x="459.16" y="55" width="5.87" height="10" fill="#00B4AB"/>
+<rect x="465.03" y="55" width="3.23" height="10" fill="#8b949e"/>
+<rect x="468.26" y="55" width="1.74" height="10" fill="#f34b7d"/>
+</g>
+<circle cx="30" cy="95" r="5" fill="#3178c6"/>
+<text x="41" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">TypeScript <tspan fill="#a9b1d6">35.2%</tspan></text>
+<circle cx="252" cy="95" r="5" fill="#f1e05a"/>
+<text x="263" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">JavaScript <tspan fill="#a9b1d6">26.4%</tspan></text>
+<circle cx="30" cy="119" r="5" fill="#4F5D95"/>
+<text x="41" y="123" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">PHP <tspan fill="#a9b1d6">14.5%</tspan></text>
+<circle cx="252" cy="119" r="5" fill="#178600"/>
+<text x="263" y="123" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">C# <tspan fill="#a9b1d6">5.1%</tspan></text>
+<circle cx="30" cy="143" r="5" fill="#00ADD8"/>
+<text x="41" y="147" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Go <tspan fill="#a9b1d6">4.0%</tspan></text>
+<circle cx="252" cy="143" r="5" fill="#A97BFF"/>
+<text x="263" y="147" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Kotlin <tspan fill="#a9b1d6">3.5%</tspan></text>
+<circle cx="30" cy="167" r="5" fill="#3572A5"/>
+<text x="41" y="171" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Python <tspan fill="#a9b1d6">3.3%</tspan></text>
+<circle cx="252" cy="167" r="5" fill="#b07219"/>
+<text x="263" y="171" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Java <tspan fill="#a9b1d6">3.1%</tspan></text>
+<circle cx="30" cy="191" r="5" fill="#8b949e"/>
+<text x="41" y="195" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Bru <tspan fill="#a9b1d6">2.5%</tspan></text>
+<circle cx="252" cy="191" r="5" fill="#00B4AB"/>
+<text x="263" y="195" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Dart <tspan fill="#a9b1d6">1.3%</tspan></text>
+<circle cx="30" cy="215" r="5" fill="#8b949e"/>
+<text x="41" y="219" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Hack <tspan fill="#a9b1d6">0.7%</tspan></text>
+<circle cx="252" cy="215" r="5" fill="#f34b7d"/>
+<text x="263" y="219" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">C++ <tspan fill="#a9b1d6">0.4%</tspan></text>
+</svg>

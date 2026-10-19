@@ -3,13 +3,13 @@
 <text x="25" y="35" fill="#70a5fd" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
 <clipPath id="c"><rect x="25" y="55" width="445" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
 <rect x="25.00" y="55" width="158.25" height="10" fill="#3178c6"/>
-<rect x="183.25" y="55" width="106.38" height="10" fill="#f1e05a"/>
-<rect x="289.63" y="55" width="62.21" height="10" fill="#4F5D95"/>
-<rect x="351.84" y="55" width="25.47" height="10" fill="#178600"/>
-<rect x="377.31" y="55" width="21.24" height="10" fill="#3572A5"/>
-<rect x="398.54" y="55" width="17.72" height="10" fill="#00ADD8"/>
-<rect x="416.26" y="55" width="13.94" height="10" fill="#b07219"/>
-<rect x="430.20" y="55" width="13.87" height="10" fill="#A97BFF"/>
+<rect x="183.25" y="55" width="106.40" height="10" fill="#f1e05a"/>
+<rect x="289.65" y="55" width="62.20" height="10" fill="#4F5D95"/>
+<rect x="351.85" y="55" width="25.47" height="10" fill="#178600"/>
+<rect x="377.32" y="55" width="21.23" height="10" fill="#3572A5"/>
+<rect x="398.55" y="55" width="17.71" height="10" fill="#00ADD8"/>
+<rect x="416.27" y="55" width="13.94" height="10" fill="#b07219"/>
+<rect x="430.21" y="55" width="13.87" height="10" fill="#A97BFF"/>
 <rect x="444.07" y="55" width="9.75" height="10" fill="#8b949e"/>
 <rect x="453.82" y="55" width="7.37" height="10" fill="#dea584"/>
 <rect x="461.19" y="55" width="5.21" height="10" fill="#00B4AB"/>

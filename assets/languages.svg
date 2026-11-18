@@ -2,33 +2,33 @@
 <rect width="495" height="259" rx="6" fill="#1a1b27" stroke="#2f3146"/>
 <text x="25" y="35" fill="#70a5fd" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
 <clipPath id="c"><rect x="25" y="55" width="445" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
-<rect x="25.00" y="55" width="190.31" height="10" fill="#3178c6"/>
-<rect x="215.31" y="55" width="87.82" height="10" fill="#f1e05a"/>
-<rect x="303.13" y="55" width="47.75" height="10" fill="#4F5D95"/>
-<rect x="350.87" y="55" width="43.71" height="10" fill="#3572A5"/>
-<rect x="394.59" y="55" width="19.55" height="10" fill="#178600"/>
-<rect x="414.13" y="55" width="13.60" height="10" fill="#00ADD8"/>
-<rect x="427.73" y="55" width="10.73" height="10" fill="#b07219"/>
-<rect x="438.46" y="55" width="10.64" height="10" fill="#A97BFF"/>
-<rect x="449.11" y="55" width="7.48" height="10" fill="#8b949e"/>
-<rect x="456.59" y="55" width="5.65" height="10" fill="#dea584"/>
-<rect x="462.25" y="55" width="4.00" height="10" fill="#00B4AB"/>
-<rect x="466.25" y="55" width="3.75" height="10" fill="#8b949e"/>
+<rect x="25.00" y="55" width="188.91" height="10" fill="#3178c6"/>
+<rect x="213.91" y="55" width="88.93" height="10" fill="#f1e05a"/>
+<rect x="302.84" y="55" width="47.62" height="10" fill="#4F5D95"/>
+<rect x="350.46" y="55" width="43.68" height="10" fill="#3572A5"/>
+<rect x="394.14" y="55" width="19.84" height="10" fill="#178600"/>
+<rect x="413.98" y="55" width="13.81" height="10" fill="#00ADD8"/>
+<rect x="427.79" y="55" width="11.05" height="10" fill="#b07219"/>
+<rect x="438.84" y="55" width="10.52" height="10" fill="#A97BFF"/>
+<rect x="449.36" y="55" width="7.40" height="10" fill="#8b949e"/>
+<rect x="456.75" y="55" width="5.59" height="10" fill="#dea584"/>
+<rect x="462.34" y="55" width="3.95" height="10" fill="#00B4AB"/>
+<rect x="466.29" y="55" width="3.71" height="10" fill="#8b949e"/>
 </g>
 <circle cx="30" cy="95" r="5" fill="#3178c6"/>
-<text x="41" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">TypeScript <tspan fill="#a9b1d6">42.8%</tspan></text>
+<text x="41" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">TypeScript <tspan fill="#a9b1d6">42.5%</tspan></text>
 <circle cx="252" cy="95" r="5" fill="#f1e05a"/>
-<text x="263" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">JavaScript <tspan fill="#a9b1d6">19.7%</tspan></text>
+<text x="263" y="99" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">JavaScript <tspan fill="#a9b1d6">20.0%</tspan></text>
 <circle cx="30" cy="119" r="5" fill="#4F5D95"/>
 <text x="41" y="123" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">PHP <tspan fill="#a9b1d6">10.7%</tspan></text>
 <circle cx="252" cy="119" r="5" fill="#3572A5"/>
 <text x="263" y="123" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Python <tspan fill="#a9b1d6">9.8%</tspan></text>
 <circle cx="30" cy="143" r="5" fill="#178600"/>
-<text x="41" y="147" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">C# <tspan fill="#a9b1d6">4.4%</tspan></text>
+<text x="41" y="147" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">C# <tspan fill="#a9b1d6">4.5%</tspan></text>
 <circle cx="252" cy="143" r="5" fill="#00ADD8"/>
 <text x="263" y="147" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Go <tspan fill="#a9b1d6">3.1%</tspan></text>
 <circle cx="30" cy="167" r="5" fill="#b07219"/>
-<text x="41" y="171" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Java <tspan fill="#a9b1d6">2.4%</tspan></text>
+<text x="41" y="171" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Java <tspan fill="#a9b1d6">2.5%</tspan></text>
 <circle cx="252" cy="167" r="5" fill="#A97BFF"/>
 <text x="263" y="171" fill="#38bdae" font-family="Segoe UI,Ubuntu,Sans-Serif" font-size="12">Kotlin <tspan fill="#a9b1d6">2.4%</tspan></text>
 <circle cx="30" cy="191" r="5" fill="#8b949e"/>
